@@ -1,0 +1,16 @@
+{
+  "name": "_Purple",
+  "description": "Purple, but a draft only.",
+  "symbol": "_PRPL",
+  "image": "https://imgur.com/a/h8Eevyq.png",
+  "attributes": [
+    {
+      "trait_type": "center",
+      "value": "black"
+    },
+    {
+      "trait_type": "border",
+      "value": "neon purple"
+    }
+  ]
+}
