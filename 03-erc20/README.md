@@ -11,3 +11,4 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.ts
 ```
+0x800E1459Fe06e5fD21B0F255da05E65863155a19
